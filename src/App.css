@@ -1,1 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Poppins:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
+
+/* Setando a fonte com tailwind */
+@theme {
+    --font-poppins: "Poppins", sans-serif;
+}
